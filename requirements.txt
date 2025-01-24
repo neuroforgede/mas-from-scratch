@@ -1,0 +1,8 @@
+openai==1.58.1
+python-dotenv==1.0.1
+pyyaml==6.0.2
+mypy==1.14.1
+types-PyYAML==6.0.12.20241230
+azure-identity==1.19.0
+pydantic==2.10.5
+termcolor==2.4.0
